@@ -1,1 +1,1 @@
-# 1455445485121
+Implementing a python code with keras and tensorflow backhand.
